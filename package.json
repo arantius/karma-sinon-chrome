@@ -4,11 +4,11 @@
   "version": "0.3.0",
   "author": "9joneg",
   "dependencies": {
-    "sinon-chrome": "^2.3.1"
+    "sinon-chrome": "^3.0.1"
   },
   "devDependencies": {
     "di": "0.0.1",
-    "mocha": "^2.4.5",
+    "mocha": "^10.20.0",
     "snazzy": "^3.0.1",
     "standard": "^6.0.8"
   },
